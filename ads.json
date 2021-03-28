@@ -6,7 +6,7 @@
     "startAppId": "2111700000000000000000000000000000000000000000000000000000055448103",
     "unityGameId": "4066227",
     "unityTestMode": true,
-    "activeAds": "unity",
+    "activeAds": "admob",
     "isRandom": true,
     "interstitialInterval": 1
 }
