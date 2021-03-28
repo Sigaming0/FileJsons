@@ -7,6 +7,6 @@
     "unityGameId": "4066227",
     "unityTestMode": true,
     "activeAds": "admob",
-    "isRandom": true,
+    "isRandom": false,
     "interstitialInterval": 1
 }
